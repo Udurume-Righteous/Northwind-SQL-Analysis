@@ -160,3 +160,11 @@ Based on the analysis:
    Use strong months like March and April to build targeted promotions and balance out slow periods.
 
 ---
+
+### 📦 Dataset Source
+
+The Northwind sample database used in this project is publicly available and originally developed by Microsoft. You can find the SQL version from various public archives, including:
+
+- https://github.com/jpwhite3/northwind-MySQL
+
+This dataset has been adapted and used here for educational and portfolio purposes.
