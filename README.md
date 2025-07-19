@@ -1,6 +1,5 @@
-# Northwind-SQL-Analysis
-A SQL-based exploration and analysis of the Northwind Traders dataset.
 ## SQL Analysis of Northwind Traders — Final Insights Summary
+A SQL-based exploration and analysis of the Northwind Traders dataset.
 
 ---
 
