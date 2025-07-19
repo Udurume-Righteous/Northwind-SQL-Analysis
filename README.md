@@ -1,8 +1,8 @@
-## SQL Analysis of Northwind Traders — Final Insights Summary
+## Northwind-SQL-Analysis
 A SQL-based exploration and analysis of the Northwind Traders dataset.
 
 ---
-
+## SQL Analysis of Northwind Traders — Final Insights Summary
 ### Overview
 
 This analysis explores customer behavior, revenue performance, employee contributions, and product-level trends within the fictional company **Northwind Traders**. Using SQL and the Northwind database, we examined **16 key queries** across sales, operations, and customer data to identify revenue drivers and business optimization opportunities.
