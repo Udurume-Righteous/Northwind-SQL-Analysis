@@ -165,6 +165,6 @@ Based on the analysis:
 
 The Northwind sample database used in this project is publicly available and originally developed by Microsoft. You can find the SQL version from various public archives, including:
 
-- https://github.com/jpwhite3/northwind-MySQL
+- https://github.com/jpwhite3/northwind-SQLite3
 
 This dataset has been adapted and used here for educational and portfolio purposes.
